@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img alt="Blog" height="80" title="Plant Manager" src="./assets/image/logo.svg" />
+  <img alt="Blog" height="80" title="Plant Manager" src="./assets/images/logo.svg" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/martins-flix">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/blog">
 </p>
 
 
 ## 💻 Projeto
-Aplicativo que se inspira na interface da Netflix.
+Aplicativo que mostra do Front-end de um Blog.
 
 ## 🔃 Requisitos para utilizar
 
@@ -25,18 +25,18 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/martins-flix/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/blog/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/martins-flix/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/blog/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/martins-flix/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/blog/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/martins-flix/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/blog/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
