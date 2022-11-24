@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="MartinsFlix" height="80" title="Plant Manager" src="./assets/img/Logo - MartinsFlix.png" />
+  <img alt="Blog" height="80" title="Plant Manager" src="./assets/img/Logo - MartinsFlix.png" />
 </h1>
 
 <p align="center">
